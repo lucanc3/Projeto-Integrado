@@ -1,0 +1,29 @@
+idioma - ok
+
+login - ok
+
+Menu Adm - ok
+Menu Cliente - ok
+
+Codigo Acesso randomico - Foda
+
+Cadastrar Débito Automatico - Fazer
+
+Cadastrar Codigo de Acesso - Fazer
+
+Consultar dispenser - Fazer
+
+
+Extrato - Foda
+
+Gerar Relatório - Foda
+
+Notas disponiveis- Fazer
+
+Saque Rapido - Foda
+
+
+Saldo - Fazer
+
+Transferência - Fazer
+
